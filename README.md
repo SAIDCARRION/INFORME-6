@@ -49,5 +49,15 @@ _Realizar ejercicios y análisis de frecuencias y periodos
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/9Q43R3zS/v.png" alt="v"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/dVgbGWy0/w.png" alt="w"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/mrM0jQYy/x.png" alt="x"/></a><br/><br/>
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/C1g9QzJT/y.png" alt="y"/></a><br/><b
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/C1g9QzJT/y.png" alt="y"/></a><br/>
+
+4)Video
+
+https://www.youtube.com/watch?v=xTJNeXQfQ_o&feature=youtu.be&ab_channel=MartinVaca
+
+5.Conclusiones
+
+Al realizar este informe, se pudo apreciar la importancia de la comprensión de los conceptos básicos de circuitos electrónicos y su aplicación práctica en la construcción de circuitos. También se pudo observar cómo la teoría se relaciona con la práctica y cómo es posible resolver problemas y diseñar circuitos utilizando los conocimientos adquiridos. El uso de herramientas y equipos específicos también fue esencial para poder llevar a cabo la construcción del circuito. En general, este informe fue una gran oportunidad para aplicar y profundizar en los conocimientos adquiridos en el estudio de los fundamentos de los circuitos electrónicos.
+
+6.Bibliografía _Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearso
                                                                                                                       
