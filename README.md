@@ -38,3 +38,16 @@ _Realizar ejercicios y análisis de frecuencias y periodos
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/g0qZ3TTy/l.png" alt="l"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/k4Jtsv00/m.png" alt="m"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/hj2Q57gf/n.png" alt="n"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/hj2Q57gf/n.png" alt="n"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/dVDF2kN5/image.png" alt="image"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/SsbpbZSP/p.png" alt="p"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/FRbXrj1H/q.png" alt="q"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/j2ZVNtHV/r.png" alt="r"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/445Rjbr8/s.png" alt="s"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/QCXGHHWk/t.png" alt="t"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/FsC5HFF3/u.png" alt="u"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/9Q43R3zS/v.png" alt="v"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/dVgbGWy0/w.png" alt="w"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/mrM0jQYy/x.png" alt="x"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/C1g9QzJT/y.png" alt="y"/></a><br/><b
+                                                                                                                      
